@@ -37,6 +37,26 @@ I enjoy building high-performance applications and mentoring developers.
  </a>
 </div>
 
+## 📌 Notable Projects
+- 🚀 **[fleurinjy](https://www.fleurinjy.com)** - fleurinjy cms website flowers for wedding  system (Laravel)
+- 🚀 **[elreefelmasry](https://www.elreefelmasry.com)** - elreefelmasry cms website (Laravel)
+- 🎓 **[Almostaqbal](https://almostaqbal.com)** - School management system (php native)
+- 🏢 **[Wixmedia CRM](http://wixmedia.com)** - wixmedia CRM System  (Laravel)
+- 🛒 **[Molhakaty](https://molhakaty.com)** - E-commerce platform (Laravel, Vue.js)
+- 🚀 **[Engineering](http://www.engineering-portal.com/)** - Online Courses system (Laravel)
+- 🚀 **[Rohingya](http://www.Rohingya.com/)** - Online Courses system (Laravel)
+- 🚗 **[About Cars](https://about-car.com)** - Car services platform (Laravel)
+- 📑 **[El-hara-ads](https://al-hara.com)** - Classified Ads system (Laravel)
+- 🚀 **[khabeer](https://khabeer.ae.com)** - khabeer system for Self-Assessment for Institutions in ae (Laravel)
+- 📩 **[Eaqr-elkhaleeg](https://www.saqr-elkhaleeeg.com)** - Chat System (node, express,mongo db)
+- 🚀 **[Medical-Tourism](https://Medical-Tourism.com)** - Medical-Tourism management system (Laravel)
+- 🏢 **[WomenBag](https://women-bag-app.com)** - Women Bag app (Flutter)
+- 🚀 **[paymint](https://app.paymint-eg.com)** - paymint fintech system (Laravel, Vue.js)
+- 🚀 **[sevenfigures](https://sevenfigures.com)** - sevenfigures Real Estate Marketing Website (Laravel)
+
+
+
+
 
 
 
