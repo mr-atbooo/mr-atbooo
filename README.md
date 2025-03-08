@@ -8,7 +8,7 @@ I enjoy building high-performance applications and mentoring developers.
 ## 🔧 Tech Stack
 
 **Backend:** Laravel, Node.js (Express.js), PHP, REST APIs, GraphQL, WebSockets  
-**Frontend:** Vue.js, jQuery, Bootstrap, HTML5, CSS3 
+**Frontend:** Vue.js, jQuery, Bootstrap, HTML5, CSS3                    
 **Frontend:** Vue.js, jQuery, Bootstrap, HTML5, CSS3 
 **Mobile:** dart, Flutter  
 **Databases:** MySQL, MongoDB, Redis, SQLite  
